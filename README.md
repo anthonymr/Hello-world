@@ -21,7 +21,7 @@
   - [Usage](#usage)
   - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
+- [👥 Author](#author)
 
 
 <!-- PROJECT DESCRIPTION -->
@@ -73,14 +73,14 @@ Clone this repository to your desired folder:
 
 Install this project with:
 
-Just clone de repository
+Just clone the repository
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
+<!-- AUTHOR -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="author"></a>
 
 👤 **Anthony Martin**
 

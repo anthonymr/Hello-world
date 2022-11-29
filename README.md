@@ -1,27 +1,4 @@
 <a name="readme-top"></a>
-
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
 
   <h3><b>My first Microverse Repo</b></h3>
@@ -45,18 +22,13 @@ After you're finished please remove all the comments and instructions!
   - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
-- [📝 License](#license)
+
 
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 Hello World
 
-> Describe your project in 1 or 2 sentences.
+> This is a project based in HTML and CSS, just for test Linters and GitHub functionality.
 
 **Hello World** is my first Microverse repo at GitHub...
 
@@ -102,10 +74,6 @@ Clone this repository to your desired folder:
 Install this project with:
 
 Just clone de repository
-
-
-
-
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
